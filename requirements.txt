@@ -1,0 +1,11 @@
+pandas
+matplotlib
+gym
+gym[atari]
+numpy
+opencv-python
+torch
+gin
+tb-nightly
+torchvision
+jupyter
